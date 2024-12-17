@@ -159,7 +159,7 @@ class _LiveLocationAppState extends State<LiveLocationApp> {
 
 
   // void _fetchRoute() async {
-  //   const String googleAPIKey = 'AIzaSyCZ6YIiEkZnGVCQUyFIKsu3RdOJ49GVeLU';
+  //   const String googleAPIKey = 'api_key';
   //   Dio dio = Dio();
   //   String url =
   //       "https://maps.googleapis.com/maps/api/directions/json?origin=${_currentPosition.latitude},${_currentPosition.longitude}&destination=${_targetLocation.latitude},${_targetLocation.longitude}&key=$googleAPIKey";
